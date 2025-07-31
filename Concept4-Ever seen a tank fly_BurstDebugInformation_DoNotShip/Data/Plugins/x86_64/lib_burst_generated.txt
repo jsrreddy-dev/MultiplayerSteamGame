@@ -10,7 +10,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -75,7 +75,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -140,7 +140,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -256,7 +256,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -374,7 +374,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -394,7 +394,7 @@ Library: G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp
 --linker-options=PdbAltPath="Concept4-Ever seen a tank fly_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.51f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Library\Burst
 --output=G:\UnityMyMade\5-Concepts_Prototypes\Concept4-Ever seen a tank fly\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
