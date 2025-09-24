@@ -11,6 +11,7 @@ Library: G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp
 --linker-options=PdbAltPath="AstroTankHDRP_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Library\Burst
 --output=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -75,6 +76,7 @@ Library: G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp
 --linker-options=PdbAltPath="AstroTankHDRP_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Library\Burst
 --output=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -139,6 +141,7 @@ Library: G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp
 --linker-options=PdbAltPath="AstroTankHDRP_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Library\Burst
 --output=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -256,6 +259,7 @@ Library: G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp
 --linker-options=PdbAltPath="AstroTankHDRP_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Library\Burst
 --output=G:\UnityMyMade\OtherStuff\git\FinalYearProject1-Tank\AstroTankHDRP\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
